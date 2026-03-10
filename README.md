@@ -1,4 +1,4 @@
-# openclwd
+# An-Agent-that-helps-you-install-openclwd.
 
 一个免费的 `OpenClaw 安装陪练 Agent`。
 <img width="1360" height="782" alt="Screenshot 2026-03-10 at 5 13 41 PM" src="https://github.com/user-attachments/assets/04fe4eb5-b39d-47fa-8ba2-a66cb19e4eca" />
